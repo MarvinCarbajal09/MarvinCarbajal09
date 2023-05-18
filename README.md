@@ -3,7 +3,7 @@
 <h1 align='center'>
   Hi there 👋 I'm Marvin 👨‍💻
 </h1>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvector-premium%2Flindo-dinosaurio-jugando-computadora-dibujos-animados-vector-icono-ilustracion_28813578.htm&psig=AOvVaw3rrM48k-37WY7x_KgHR94m&ust=1684502335897000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPi_z7P6_v4CFQAAAAAdAAAAABAw">
+
 <p align='center'>
  developed front-end
 </p>
