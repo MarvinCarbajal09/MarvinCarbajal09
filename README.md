@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Alexandre 👨‍💻
+  Hi there 👋 I'm Marvin 👨‍💻
 </h1>
 
 <p align='center'>
@@ -21,8 +21,6 @@
 <img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_daily.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Falexandresanlim%2Fstats'/></a>
   </p>
 
-<details>
-  <summary>📃 Resume</summary>
 
 
 ## Education
