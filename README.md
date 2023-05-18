@@ -4,7 +4,7 @@
   Hi there 👋 I'm Marvin 👨‍💻
 </h1>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbandofartists.com%2Fartwork%2Fanimatics&psig=AOvVaw3rrM48k-37WY7x_KgHR94m&ust=1684502335897000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPi_z7P6_v4CFQAAAAAdAAAAABAo"
-    </img>
+</img>
 <p align='center'>
  developed front-end
 </p>
