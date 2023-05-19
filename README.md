@@ -3,7 +3,9 @@
 <h1 align='center'>
   Hi👋 I'm Marvin 👨‍💻
 </h1>
-<img align='center' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Funny image">
+<div align='center'>
+  <img rc="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Funny image">
+</div>
 
 <p align='center'>
  developed front-end
