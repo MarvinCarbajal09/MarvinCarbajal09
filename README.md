@@ -3,7 +3,7 @@
 <h1 align='center'>
   Hi👋 I'm Marvin 👨‍💻
 </h1>
-<div>
+<div align='center'>
   <img src="https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif" alt="Funny image">
 </div>
 
