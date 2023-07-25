@@ -4,7 +4,7 @@
   Hi👋 I'm Marvin 👨‍💻
 </h1>
 <div align='center'>
-  <img src="https://pa1.aminoapps.com/7537/7ccd8a743ee0b9f023f5fc2fcc930505267dedc7r1-320-179_00.gif" alt="Funny image">
+  <img src="https://i.gifer.com/XOsX.gif" alt="Funny image">
 </div>
 
 <p align='center'>
