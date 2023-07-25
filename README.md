@@ -3,7 +3,7 @@
 <h1 align='center'>
   Hi👋 I'm Marvin 👨‍💻
 </h1>
-<div align='center'>
+<div>
   <img src="https://i.gifer.com/g1IZ.gif" alt="Funny image">
 </div>
 
