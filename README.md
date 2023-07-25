@@ -4,7 +4,7 @@
   Hi👋 I'm Marvin 👨‍💻
 </h1>
 <div align='center'>
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Funny image">
+  <img src="https://i.gifer.com/g1IZ.gif" alt="Funny image">
 </div>
 
 <p align='center'>
