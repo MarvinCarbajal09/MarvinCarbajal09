@@ -1,6 +1,6 @@
-<h1 align='center' text='white'>Hi 👋, I'm Marvin Carbajal</h1>
 
-![Yensubldg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=23E1FFD5&center=true&vCenter=true&width=435&lines=Front-end+Developer)
+
+![Yensubldg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=23E1FFD5&center=true&vCenter=true&width=435&lines=Hi+I+am+Marvin+Carbajal+Front-end+Developer)
 <div align='center' >
   <img src="https://i.gifer.com/origin/d8/d8c2c87772378b7e00deeefd8c843a12.gif" alt="Funny image" style="width: 150px; height: auto;">
 </div>
