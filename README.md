@@ -11,9 +11,13 @@
 <p align='center'>
  developed front-end
 </p>
-## Github Stats :
-[![GitHub stats](https://github-readme-stats.MarvinCarbajal09.app/api?username=MarvinCarbajal09&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+<a href="https://github.com/MarvinCarbajal09">
+  <img height="180em" src="https://github-readme-stats-eight-theta.MarvinCarbajal09.app/api?username=MarvinCarbajal09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.MarvinCarbajal09.app/api/top-langs/?username=MarvinCarbajal09&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <p align='center'>
   💻 technology<br/><br/>
 ### Languages and Tools:
