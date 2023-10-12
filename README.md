@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Hi👋 I'm Marvin 👨‍💻
+  Hi👋 I'm Marvin Carbajal 👨‍💻
 </h1>
 <div align='center' >
   <img src="https://i.gifer.com/origin/d8/d8c2c87772378b7e00deeefd8c843a12.gif" alt="Funny image" style="width: 200px; height: auto;">
