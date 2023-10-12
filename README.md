@@ -24,10 +24,11 @@
 <br />
 <p> ### Lenguajes: </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,vue,nuxtjs,angular,idea,git,mysql,vite,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,vue,nuxtjs,idea,git,mysql,vite,ps,vscode,tailwind,react,powershell,cs,bootstrap)](https://skillicons.dev)
 <br />
-<p> ### Softwares: </p>
-[![Software](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+
+
+
 
 
 
