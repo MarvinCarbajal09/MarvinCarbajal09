@@ -1,8 +1,5 @@
 
 
-
-  <p align="center"><a href="https://MarvinCarbajal09.github.io"><img width="80%" alt="Hello, I'm Marvin Carbajal. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
 <div align='center' >
   <img src="https://i.gifer.com/origin/d8/d8c2c87772378b7e00deeefd8c843a12.gif" alt="Funny image" style="width: 200px; height: auto;">
 </div>
