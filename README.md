@@ -1,8 +1,8 @@
 
 
-<h1 align='center'>
-  Hi I'm Marvin Carbajal 👨‍💻
-</h1>
+
+  <p align="center"><a href="https://MarvinCarbajal09.github.io"><img width="80%" alt="Hello, I'm Marvin Carbajal. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
 <div align='center' >
   <img src="https://i.gifer.com/origin/d8/d8c2c87772378b7e00deeefd8c843a12.gif" alt="Funny image" style="width: 200px; height: auto;">
 </div>
@@ -31,12 +31,11 @@
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <br />
 <p> ### Softwares: </p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
+
  </a> 
 
 
