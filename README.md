@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm Marvin Carbajal</h1>
+<h1 align="center white">Hi 👋, I'm Marvin Carbajal</h1>
 
 <div align='center' >
   <img src="https://i.gifer.com/origin/d8/d8c2c87772378b7e00deeefd8c843a12.gif" alt="Funny image" style="width: 200px; height: auto;">
 </div>
-
-<p align='center'>
-  💻 technology<br/><br/>
-</p>
-
 <br />
 <p> ### Lenguajes: </p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,vue,nuxtjs,idea,git,mysql,vite,ps,vscode,tailwind,react,powershell,cs,bootstrap)](https://skillicons.dev)
 <br />
+<p align='center'>
+  💻 technology<br/><br/>
+</p>
 
 
 <div align='center'>
