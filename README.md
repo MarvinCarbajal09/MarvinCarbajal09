@@ -16,8 +16,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,vue,nuxtjs,idea,git,mysql,vite,ps,vscode,tailwind,react,powershell,cs,bootstrap)](https://skillicons.dev)
 <br />
-<br />
-<br />
+
 ![Yensubldg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=23E1FFD5&center=true&vCenter=true&width=435&lines=Front-end+Developer)
 
 
