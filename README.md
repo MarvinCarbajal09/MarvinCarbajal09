@@ -4,7 +4,7 @@
   Hi👋 I'm Marvin 👨‍💻
 </h1>
 <div align='center'>
-  <img src="https://thumbs.gfycat.com/DevotedNippyJabiru-size_restricted.gif" alt="Funny image">
+  <img src="https://i.gifer.com/origin/d8/d8c2c87772378b7e00deeefd8c843a12.gif" alt="Funny image">
 </div>
 
 <p align='center'>
