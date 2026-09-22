@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MarvinCarbajal09&color=b026ff&style=for-the-badge&label=PERFIL+VISTO)
 [![GitHub followers](https://img.shields.io/github/followers/MarvinCarbajal09?label=Seguidores&style=for-the-badge&color=b026ff)](https://github.com/MarvinCarbajal09)
 
-<img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="300">
 
 </div>
 
