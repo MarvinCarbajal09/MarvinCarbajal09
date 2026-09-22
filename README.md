@@ -9,6 +9,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MarvinCarbajal09&color=b026ff&style=for-the-badge&label=PERFIL+VISTO)
 [![GitHub followers](https://img.shields.io/github/followers/MarvinCarbajal09?label=Seguidores&style=for-the-badge&color=b026ff)](https://github.com/MarvinCarbajal09)
 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500">
+
 </div>
 
 <br>
@@ -65,12 +67,12 @@ const marvin = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarvinCarbajal09&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinCarbajal09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarvinCarbajal09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinCarbajal09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarvinCarbajal09&theme=radical&hide_border=true&background=0D1117" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=MarvinCarbajal09&theme=radical&hide_border=true&background=0D1117" alt="streak stats"/>
 </div>
 
 <div align="center">
@@ -82,18 +84,16 @@ const marvin = {
 ## 🏆 Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarvinCarbajal09&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarvinCarbajal09&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 </div>
 
 <br>
 
-## 🐍 Actividad reciente
+## 🐍 Actividad de contribuciones
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MarvinCarbajal09/MarvinCarbajal09/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-> 💡 Para activar la animación de la serpiente arriba, agrega el workflow oficial de [`snk`](https://github.com/Platane/snk) a tu repo de perfil.
 
 <br>
 
@@ -101,13 +101,14 @@ const marvin = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marvincarbajal)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvinhcarbajal09@gmail.com)
+
+<br><br>
+
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200">
 
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
