@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MarvinCarbajal09/MarvinCarbajal09/main/energy-banner.svg" width="100%" alt="banner animado"/>
 
-<img src="https://raw.githubusercontent.com/MarvinCarbajal09/MarvinCarbajal09/main/Skills_Animation_Dark.gif" width="100%" alt="skills animados"/>
+
 
 <br><br>
 
@@ -12,6 +12,8 @@
 <a href="mailto:marvinhcarbajal09@gmail.com"><img src="https://img.shields.io/badge/Email-7e22ce?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/MarvinCarbajal09/MarvinCarbajal09/main/Skills_Animation_Dark.gif" width="60%" alt="skills animados"/>
 
 <br>
 
