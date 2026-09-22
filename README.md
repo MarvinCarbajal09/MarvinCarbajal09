@@ -1,66 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Marvin%20Carbajal&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7e22ce&height=200&section=header&text=Marvin%20Carbajal&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20en%20Sistemas%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=B026FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Ingeniero+en+Sistemas+y+Computaci%C3%B3n;Desarrollador+Backend+%26+Frontend;Dise%C3%B1o+de+Bases+de+Datos;root%40marvin%3A~%24+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Desarrollo+Backend+%26+Frontend;Dise%C3%B1o+y+modelado+de+Bases+de+Datos;Construyo+software+que+s%C3%AD+escala" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://github.com/MarvinCarbajal09"><img src="https://komarev.com/ghpvc/?username=MarvinCarbajal09&color=7e22ce&style=flat-square&label=PERFIL+VISTO" /></a>
+<a href="https://github.com/MarvinCarbajal09"><img src="https://img.shields.io/github/followers/MarvinCarbajal09?label=SEGUIDORES&style=flat-square&color=7e22ce&labelColor=1e1b4b" /></a>
+<a href="https://linkedin.com/in/marvincarbajal"><img src="https://img.shields.io/badge/LinkedIn-1e1b4b?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:marvinhcarbajal09@gmail.com"><img src="https://img.shields.io/badge/Email-7e22ce?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MarvinCarbajal09&color=b026ff&style=for-the-badge&label=PERFIL+VISTO)
-[![GitHub followers](https://img.shields.io/github/followers/MarvinCarbajal09?label=Seguidores&style=for-the-badge&color=b026ff)](https://github.com/MarvinCarbajal09)
+## 👋 Sobre mí
 
-<img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="500">
+Ingeniero en Sistemas y Computación enfocado en construir productos completos: desde el modelado de la base de datos hasta la interfaz que el usuario final termina usando.
 
-</div>
+- 🔭 Actualmente desarrollando soluciones **backend y frontend** de extremo a extremo
+- 🗄️ Con foco en **diseño de bases de datos** limpias y escalables
+- 🌱 Aprendiendo constantemente sobre arquitectura de software y buenas prácticas
+- 📍 Basado en El Salvador — disponible para proyectos remotos
 
 <br>
 
-## 🧠 Sobre mí
+## 🛠️ Stack Tecnológico
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-
-```typescript
-const marvin = {
-  ubicacion: "El Salvador 🇸🇻",
-  ocupacion: "Desarrollador Full Stack",
-  formacion: "Ingeniería en Sistemas y Computación",
-  stackFavorito: ["Vue", "Nuxt", "TypeScript", "PHP", "MySQL"],
-  actualmente: "Construyendo cosas que no se caen (casi siempre) 😅",
-  meGusta: () => ["backend robusto", "UIs limpias", "bases de datos bien normalizadas"],
-  contacto: "¡Hablemos de código!"
-};
-```
-
-<br clear="right"/>
-
-## ⚡ Stack Tecnológico
-
-<div align="center">
-
-### 🎨 Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 🗄️ Bases de Datos & Herramientas
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="140"><b>Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,html,css,tailwind,bootstrap" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=js,ts,php,cs" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Datos & Herramientas</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql,git,vite,vscode,ps,idea" />
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -68,48 +55,61 @@ const marvin = {
 
 <div align="center">
 
-**Vue / Nuxt**
-![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-90%25-b026ff?style=flat-square)
-
-**JavaScript / TypeScript**
-![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-85%25-b026ff?style=flat-square)
-
-**PHP / Backend**
-![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-80%25-b026ff?style=flat-square)
-
-**MySQL / Diseño de BD**
-![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-80%25-b026ff?style=flat-square)
-
-**Git / Control de versiones**
-![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-88%25-b026ff?style=flat-square)
+| Tecnología | Nivel |
+|---|---|
+| Vue / Nuxt | ![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-90%25-7e22ce?style=flat-square) |
+| JavaScript / TypeScript | ![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-85%25-7e22ce?style=flat-square) |
+| PHP / Backend | ![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-80%25-7e22ce?style=flat-square) |
+| MySQL / Diseño de BD | ![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-80%25-7e22ce?style=flat-square) |
+| Git / Control de versiones | ![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-88%25-7e22ce?style=flat-square) |
 
 </div>
 
 <br>
 
+## 🚀 Proyectos destacados
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Nombre del proyecto 1
+Breve descripción de qué hace, qué problema resuelve y el impacto (ej. "Sistema de facturación electrónica para PYMES en El Salvador, cumpliendo normativa del Ministerio de Hacienda").
+
+`Vue` `NestJS` `MySQL`
+
+[🔗 Ver repositorio](https://github.com/MarvinCarbajal09)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Nombre del proyecto 2
+Breve descripción de qué hace, qué problema resuelve y el impacto.
+
+`Nuxt` `TypeScript` `Tailwind`
+
+[🔗 Ver repositorio](https://github.com/MarvinCarbajal09)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="100%" style="border-radius: 10px;">
+<sub>💡 Reemplaza estos dos proyectos con tus repos reales — son los que más va a mirar quien visite tu perfil.</sub>
 </div>
 
 <br>
 
-## 🤝 Conectemos
+## 📫 Contacto
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marvincarbajal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvinhcarbajal09@gmail.com)
-
-<br><br>
-
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200">
+<a href="https://linkedin.com/in/marvincarbajal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:marvinhcarbajal09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/MarvinCarbajal09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+<br>
 
-<div align="center">
-  <i>⭐ "El código limpio siempre parece escrito por alguien a quien le importa." — Robert C. Martin</i>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e22ce,100:1e1b4b&height=120&section=footer" width="100%"/>
