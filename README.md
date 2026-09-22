@@ -13,9 +13,6 @@
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/MarvinCarbajal09/MarvinCarbajal09/main/Skills_Animation_Dark.gif" width="60%" alt="skills animados"/>
-</div>
 <br>
 
 ## 👋 Sobre mí
@@ -29,6 +26,10 @@ Ingeniero en Sistemas y Computación enfocado en construir productos completos: 
 - 📍 Basado en El Salvador — disponible para proyectos remotos
 
 <br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/MarvinCarbajal09/MarvinCarbajal09/main/Skills_Animation_Dark.gif" width="60%" alt="skills animados"/>
+</div>
 
 ## 🛠️ Stack Tecnológico
 
