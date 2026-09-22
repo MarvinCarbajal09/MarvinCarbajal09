@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-<img src="./energy-banner.svg" width="100%" alt="banner animado"/>
+<img src="energy-banner.svg" width="100%" alt="banner animado"/>
 </div>
 
 <br>
