@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MarvinCarbajal09/MarvinCarbajal09/main/energy-banner.svg" width="100%" alt="banner animado"/>
 
+<img src="https://raw.githubusercontent.com/MarvinCarbajal09/MarvinCarbajal09/main/Skills_Animation_Dark.gif" width="100%" alt="skills animados"/>
+
 <br><br>
 
 <a href="https://github.com/MarvinCarbajal09"><img src="https://komarev.com/ghpvc/?username=MarvinCarbajal09&color=7e22ce&style=flat-square&label=PERFIL+VISTO" /></a>
