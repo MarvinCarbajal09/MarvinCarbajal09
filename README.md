@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Marvin%20Carbajal&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=B026FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Ingeniero+en+Sistemas+y+Computaci%C3%B3n;Desarrollador+Backend+%26+Frontend;Dise%C3%B1o+de+Bases+de+Datos;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=B026FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Ingeniero+en+Sistemas+y+Computaci%C3%B3n;Desarrollador+Backend+%26+Frontend;Dise%C3%B1o+de+Bases+de+Datos;root%40marvin%3A~%24+_" alt="Typing SVG" />
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MarvinCarbajal09&color=b026ff&style=for-the-badge&label=PERFIL+VISTO)
 [![GitHub followers](https://img.shields.io/github/followers/MarvinCarbajal09?label=Seguidores&style=for-the-badge&color=b026ff)](https://github.com/MarvinCarbajal09)
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="500">
 
 </div>
 
@@ -64,35 +64,31 @@ const marvin = {
 
 <br>
 
-## 📊 Estadísticas de GitHub
+## 📈 Nivel de dominio
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarvinCarbajal09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinCarbajal09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MarvinCarbajal09&theme=radical&hide_border=true&background=0D1117" alt="streak stats"/>
-</div>
+**Vue / Nuxt**
+![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-90%25-b026ff?style=flat-square)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarvinCarbajal09&theme=react-dark&hide_border=true&bg_color=0D1117&color=B026FF&line=B026FF&point=FFFFFF" width="100%"/>
+**JavaScript / TypeScript**
+![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-85%25-b026ff?style=flat-square)
+
+**PHP / Backend**
+![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-80%25-b026ff?style=flat-square)
+
+**MySQL / Diseño de BD**
+![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-80%25-b026ff?style=flat-square)
+
+**Git / Control de versiones**
+![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-88%25-b026ff?style=flat-square)
+
 </div>
 
 <br>
 
-## 🏆 Trofeos
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarvinCarbajal09&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
-</div>
-
-<br>
-
-## 🐍 Actividad de contribuciones
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MarvinCarbajal09/MarvinCarbajal09/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="100%" style="border-radius: 10px;">
 </div>
 
 <br>
