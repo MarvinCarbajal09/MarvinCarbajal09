@@ -19,6 +19,10 @@
 
 Ingeniero en Sistemas y Computación enfocado en construir productos completos: desde el modelado de la base de datos hasta la interfaz que el usuario final termina usando.
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/MarvinCarbajal09/MarvinCarbajal09/main/Skills_Animation_Dark.gif" width="60%" alt="skills animados"/>
+</div>
+
 - 🔭 Actualmente desarrollando **sistemas de facturación electrónica (DTE)** en **SeedCode SV**, El Salvador
 - 💻 Trabajo de extremo a extremo: **backend y frontend**
 - 🗄️ Con foco en **diseño de bases de datos** limpias y escalables
@@ -27,9 +31,7 @@ Ingeniero en Sistemas y Computación enfocado en construir productos completos: 
 
 <br>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/MarvinCarbajal09/MarvinCarbajal09/main/Skills_Animation_Dark.gif" width="60%" alt="skills animados"/>
-</div>
+
 
 ## 🛠️ Stack Tecnológico
 
