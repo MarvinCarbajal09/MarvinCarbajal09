@@ -13,8 +13,9 @@
 
 </div>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/MarvinCarbajal09/MarvinCarbajal09/main/Skills_Animation_Dark.gif" width="60%" alt="skills animados"/>
-
+</div>
 <br>
 
 ## 👋 Sobre mí
